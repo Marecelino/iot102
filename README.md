@@ -38,16 +38,16 @@ This project implements a smart lock system using an Arduino board, RFID technol
 
 ## Hardware Requirements
 
-●	Arduino Uno R3
-●	Breathboard
-●	RFID-RC522
-●	Keypad
-●	Button
-●	Buzzer
-●	Liquid Crystal LCD I2C
-●	Servo
-●	Pin 9v
-●	Biến trở 0.25W 5% 330R
+-	Arduino Uno R3
+-	Breathboard
+-	RFID-RC522
+-	Keypad
+-	Button
+-	Buzzer
+-	Liquid Crystal LCD I2C
+-	Servo
+-	Pin 9v
+-	Biến trở 0.25W 5% 330R
 
 
 ## Installation
