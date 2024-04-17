@@ -1,5 +1,5 @@
 # Smart Lock System with RFID and Keypad
-![Smart Lock System]("https://github.com/Marecelino/iot102/issues/1#issue-2247231257")
+![Smart Lock System](https://github.com/Marecelino/iot102/issues/1#issue-2247231257)
 
 ## Overview
 
